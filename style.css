@@ -47,6 +47,9 @@ nav a:active {
   nav a {
     font-size: 1.25rem;
   }
+  li {
+    margin: 1em;
+  }  
 }
 
 .image {
