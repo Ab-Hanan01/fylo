@@ -263,7 +263,7 @@ nav a:active {
 input,
 .btn-big {
   display: block;
-  width: 350px;
+  width: 98%;
   margin: 1em auto;
   height: 3em;
   border: none;
