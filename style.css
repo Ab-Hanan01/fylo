@@ -190,6 +190,7 @@ nav a:active {
   }
   .read-more {
     margin-bottom: 4em;
+    width: 190px;
   }
 }
 .image-quote {
